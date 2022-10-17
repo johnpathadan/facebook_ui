@@ -1,0 +1,3 @@
+[submodule "flutter_facebook_responsive_ui"]
+	path = flutter_facebook_responsive_ui
+	url = git@github.com:MarcusNg/flutter_facebook_responsive_ui.git
